@@ -11,6 +11,12 @@ Aprender Git e GitHub desde os conceitos básicos até um nível profissional.
 - Git
 - GitHub
 
+## Aprendizados
+
+- Git
+- GitHub
+- VS Code
+
 ---
 
 Desenvolvido por Thiago.

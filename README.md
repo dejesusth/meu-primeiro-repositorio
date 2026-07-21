@@ -17,6 +17,10 @@ Aprender Git e GitHub desde os conceitos básicos até um nível profissional.
 - GitHub
 - VS Code
 
+## Branches
+
+Estou aprendendo a utilizar branches no Git.
+
 ---
 
 Desenvolvido por Thiago.
